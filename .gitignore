@@ -1,0 +1,7 @@
+./data
+./.idea
+./.ipynb_checkpoints
+./__pycache__
+/transform/.ipynb_checkpoints/
+./wandb
+./results
